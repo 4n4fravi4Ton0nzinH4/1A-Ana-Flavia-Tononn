@@ -1,0 +1,28 @@
+<head>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <p id="imagem"><img scr= "computador.png" widht="300px" height="200px"></p<
+   <h1> Colegio Carneiro</h1>
+   <h2> Pensamento Computacinal <h2>
+   <p>1A -NEM</p>
+
+
+  <ul class= "minhalista">
+      <li>Dormi</li>
+      <li>comer</li/>
+      <li>assistir</li>
+      <li>escultar musica</li>
+      <li>conversar com meus amigos</li> 
+</ul> 
+
+ <ol class= "minhalista">
+     <li>Educação Fisica</li>
+     <li>Pensamento Computacional</li>
+     <li>Fisica</li>
+     <li>Quimica</li>
+     <li>Biologia</li>
+ </ol>
+ 
+</body> 
+  
