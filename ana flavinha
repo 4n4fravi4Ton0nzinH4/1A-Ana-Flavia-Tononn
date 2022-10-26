@@ -1,7 +1,20 @@
 <head>
    <link rel="stylesheet" href="style.css">
 </head>
+
+
 <body>
+
+     <header class="cabecalho">
+          <p id="cabecalho">1 A- NOVO ENSINO MÉDIO - PENSAMENTO COMPUTACIONAL</p>
+     </header>
+
+     <nav id="menu">
+          <a href="alunos.html">Alunos e Notas</a>
+    </nav>
+
+
+
    <p id="imagem"><img scr= "computador.png" widht="300px" height="200px"></p<
    <h1> Colegio Carneiro</h1>
    <h2> Pensamento Computacinal <h2>
